@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/model.dir/model.c.o CMakeFiles/model.dir/sh_mem.c.o CMakeFiles/model.dir/first_order_plant.c.o CMakeFiles/model.dir/vis_logg.c.o CMakeFiles/model.dir/model_output.c.o  -o model -lpthread -lrt -lm 

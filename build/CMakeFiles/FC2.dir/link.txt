@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/FC2.dir/FC2.c.o CMakeFiles/FC2.dir/pid.c.o CMakeFiles/FC2.dir/sh_mem.c.o CMakeFiles/FC2.dir/periodic.c.o CMakeFiles/FC2.dir/Gimbals_position.c.o CMakeFiles/FC2.dir/sensors.c.o  -o FC2 -lpthread -lrt 

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/pid.dir/pid.c.o  -o pid -lpthread -lrt 

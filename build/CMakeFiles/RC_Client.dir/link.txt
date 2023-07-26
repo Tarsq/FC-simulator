@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/RC_Client.dir/RC_Client.c.o  -o RC_Client -lpthread -lrt 

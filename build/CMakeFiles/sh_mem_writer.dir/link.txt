@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/sh_mem_writer.dir/sh_mem_writer.c.o CMakeFiles/sh_mem_writer.dir/sh_mem.c.o  -o sh_mem_writer -lpthread -lrt 

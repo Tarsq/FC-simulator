@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/periodic.dir/periodic.c.o  -o periodic -lpthread -lrt 

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/RC_Server.dir/RC_Server.c.o  -o RC_Server -lpthread -lrt 
